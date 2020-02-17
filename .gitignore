@@ -2,3 +2,7 @@ Module folder
 ##############
 
 node_modules/*
+
+Debug Config
+##############
+.vscode/*
